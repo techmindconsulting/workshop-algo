@@ -6,7 +6,7 @@
 
 [TP 3 : Structure alternative](tp-structure-alternative.md)
 
-[TP 4 : Structure alternative suite]()
+[TP 4 : Structure alternative suite](tp-structure-alternative-2.md)
 
 [TP 5 : Les boucles](tp-boucles.md)
 
