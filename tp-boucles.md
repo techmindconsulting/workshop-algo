@@ -1,4 +1,4 @@
-## workshop-algo
+## TP Les Boucles
 
 ### Exercice 1
 
