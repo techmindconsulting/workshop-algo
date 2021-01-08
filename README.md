@@ -10,9 +10,8 @@
 
 [TP 5 : Les boucles](tp-boucles.md)
 
-[TP 6 : Les tableaux]
+[TP 6 : Les tableaux](tp-tableaux.md)
 
-[TP 7 : Tableaux a n dimensions]
+[TP 7 : Tableaux a n dimensions](tp-tableaux-ndimension.md)
 
-[TP Algo](tp-algo.md)
 
