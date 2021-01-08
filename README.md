@@ -1,4 +1,4 @@
-# Workshop algorithmie from http://cours.pise.info/algo/index.htm
+# Workshop algorithmie
 
 [TP 1 : Les variables](tp.variable.md)
 
@@ -15,3 +15,5 @@
 [TP 7 : Tableaux a n dimensions](tp-tableaux-ndimension.md)
 
 
+Références :
+[Algorithmique et programmation pour non-matheux](http://cours.pise.info/algo/index.htm)
