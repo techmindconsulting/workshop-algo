@@ -1,4 +1,4 @@
-# Workshop algorithmie
+# workshop algorithmie
 
 [TP 1 : Les variables](tp.variable.md)
 
