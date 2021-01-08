@@ -8,7 +8,7 @@
 
 [TP 4 : Structure alternative suite]()
 
-[TP 5 : Les boucles]
+[TP 5 : Les boucles](tp-boucles.md)
 
 [TP 6 : Les tableaux]
 
