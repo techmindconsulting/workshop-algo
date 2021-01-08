@@ -12,7 +12,7 @@ A ← 3
 Fin
 ``` 
 
-### Exerice 2
+### Exercice 2
 
 Quelles seront les valeurs des variables A, B et C après exécution des instructions suivantes ?
 
@@ -81,6 +81,7 @@ Une variante du précédent : on dispose de trois variables A, B et C.
 Ecrivez un algorithme transférant à B la valeur de A, à C la valeur de B et à A la valeur de C (toujours quels que soient les contenus préalables de ces variables). 
 
 ### Exercice 8
+
 Que produit l’algorithme suivant ?
 
 ```
@@ -90,7 +91,7 @@ A ← "423"
 B ← "12"
 C ← A + B
 Fin
-``
+```
 
 ### Exercice 9
 
