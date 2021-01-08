@@ -1,4 +1,4 @@
-# workshop algorithmie
+# Workshop algorithmie from http://cours.pise.info/algo/index.htm
 
 [TP 1 : Les variables](tp.variable.md)
 
