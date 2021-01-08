@@ -6,5 +6,5 @@
 
 [TP 3 : Structure alternative](tp-structure-alternative.md)
 
-[TP Algo] (tp-algo.md)
+[TP Algo](tp-algo.md)
 
